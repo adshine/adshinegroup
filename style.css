@@ -4,7 +4,7 @@
 }
 body {
     margin: 0;
-    background: url("/img/coming\ soon\ banner.png");
+    background-color:black;
     background-attachment: fixed;
     background-size: cover;
     font-family: 'Montserrat', sans-serif;
